@@ -315,6 +315,18 @@ _Excerpt_ The Department of Computer Science at Smith College invites applicatio
 
 ------------
 
+### Transylvania University
+{: #transy}
+
+_Excerpt_ Transylvania University (www.transy.edu), a top-tier, independent, residential liberal arts college in Lexington, Kentucky, invites applications for the position of Assistant Professor of Computer Science. This is a tenure-track position, teaching in-person classes, beginning September 1, 2023. Transylvania University recognizes that a diverse and inclusive community is essential to the fulfillment of our mission as a liberal arts institution. To that end, we seek to attract a diverse faculty skilled in the scholarship of teaching, research, and mentorship of students from a variety of backgrounds. Candidates are encouraged, in their cover letter, to identify their strengths and experiences in creating an inclusive academic community.
+- Review of applications will begin on **October 1, 2022**
+- Lexington, KY.  USA.
+
+[Full Job Posting](https://www.joblinkapply.com/Joblink/4637/Job/Index/579487/assistant-professor-of-computer-science){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Union College
 {: #union}
 
